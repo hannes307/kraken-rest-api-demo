@@ -1,0 +1,41 @@
+# Secrets / local environment
+.env
+.env.*
+*.env
+
+# Java build output
+*.class
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Generated exports
+exportToHTML/
+
+# OS files
+.DS_Store
+Thumbs.db
